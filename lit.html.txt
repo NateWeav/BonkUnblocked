@@ -1,0 +1,32 @@
+<html>
+<head>
+    <style>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>UnBonk - TU</title>
+</head>
+<body>
+    
+    <center>
+        <div id="cursors"></div>
+        <embed id="player" src="https://static.arcadespot.com/wp-content/uploads/2016/09/BonkLiveVersion2Game.swf" width="100%" height="100%" wmode="direct" quality="high" base="." allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer">
+        <p id="a">Despacito 2 is out on BluRay</p>
+    </center>
+</body>
+<script>
+
+    // Hey viewer! You seem to know what you're doing! The password is 'lol', so come and play!
+    /*
+    if(localStorage.getItem("cheese") !== "cheese") {
+        var pass = prompt("Hey bub, you need a password for this point");
+        if (pass !== "lol") {
+            alert("You got the password wrong, but I'll let you go and play.");
+            localStorage.setItem("cheese","cheese");
+        }
+        else {
+        alert("Wow, you got that! On you go!");
+        localStorage.setItem("cheese","cheese");
+        }    
+    }*/
+
+</script>
+</html>
